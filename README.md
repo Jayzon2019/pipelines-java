@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/josejao8080/testAPI%20Project/_apis/build/status/Jayzon2019.pipelines-java?branchName=master)](https://dev.azure.com/josejao8080/testAPI%20Project/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
